@@ -62,7 +62,9 @@ body {
 }
 
 ::placeholder {
-  color: rgba(0, 255, 255, 0);
+  color: #000000;
+  font-size: 1px;
+  padding: 8rem;
 }
 
 .navbar-extends input {
